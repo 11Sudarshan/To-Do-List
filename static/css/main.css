@@ -1,0 +1,15 @@
+table {
+  width: 75%;
+  margin-left: 13%;
+}
+
+th,
+td {
+  border: 1px solid black;
+  padding: 8px;
+  text-align: center;
+  width: fit-content;
+}
+body {
+  background-color: beige;
+}
